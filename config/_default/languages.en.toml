@@ -11,3 +11,7 @@ title = "Offensive Programming Blog"
   [params.author]
     name = "Semant1ka"
     bio = "Staff Developer. Writing about code, systems, and everything in between."
+    links = [
+      { linkedin = "https://www.linkedin.com/in/polinaslavskaya/" },
+      { github = "https://github.com/Semant1ka" },
+    ]
