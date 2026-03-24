@@ -10,6 +10,10 @@ resources/_gen/
 .DS_Store
 Thumbs.db
 
+# Claude Code
+.claude/
+docs/plans/
+
 # Editor files
 *.swp
 *.swo
